@@ -1,5 +1,5 @@
 # ExBAN
-The ExBAN Corpus (Explanations for BAyesian Networks)
+**The ExBAN Corpus (Explanations for BAyesian Networks)
 
 Authors: Miruna-Adriana Clinciu, Arash Esghi and Helen Hastie
 
