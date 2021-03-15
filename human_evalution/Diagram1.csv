@@ -1,0 +1,728 @@
+Q1.1_205,Q1.1_206,Q1.1_207,Q1.1_208,Q1.1_209,Q1.1_210,Q1.1_211,Q1.1_212,Q1.1_213,Q1.1_214,Q1.1_215,Q1.1_216,Q1.1_217,Q1.1_218,Q1.1_219,Q1.1_220,Q1.1_221,Q1.1_222,Q1.1_223,Q1.1_224,Q1.1_225,Q1.1_226,Q1.1_227,Q1.1_228,Q1.1_229,Q1.1_230,Q1.1_231,Q1.1_232,Q1.1_233,Q1.1_234,Q1.1_235,Q1.1_236,Q1.1_237,Q1.1_238,Q1.1_239,Q1.1_240,Q1.1_241,Q1.1_242,Q1.1_243,Q1.1_244,Q1.1_245,Q1.1_246,Q1.1_247,Q1.1_248,Q1.1_249,Q1.1_250,Q1.1_251,Q1.1_253,Q1.1_254,Q1.1_255,Q1.1_256,Q1.1_257,Q1.1_258,Q1.1_259,Q1.1_260,Q1.1_261,Q1.1_262,Q1.1_263,Q1.1_264,Q1.1_265,Q1.1_266,Q1.1_267,Q1.1_268,Q1.1_269,Q1.1_270,Q1.1_271,Q1.1_272,Q1.1_273,Q1.1_274,Q1.1_275,Q1.1_276,Q1.1_277,Q1.1_278,Q1.1_279,Q1.1_280,Q1.1_281,Q1.1_282,Q1.1_283,Q1.1_284,Q1.1_285,Q1.1_286,Q1.1_287,Q1.1_288,Q1.1_289,Q1.2_1,Q1.2_2,Q1.2_3,Q1.2_4,Q1.2_5,Q1.2_6,Q1.2_7,Q1.2_8,Q1.2_9,Q1.2_10,Q1.2_11,Q1.2_12,Q1.2_13,Q1.2_14,Q1.2_15,Q1.2_16,Q1.2_17,Q1.2_18,Q1.2_19,Q1.2_20,Q1.2_21,Q1.2_22,Q1.2_23,Q1.2_24,Q1.2_25,Q1.2_26,Q1.2_27,Q1.2_28,Q1.2_29,Q1.2_30,Q1.2_31,Q1.2_32,Q1.2_33,Q1.2_34,Q1.2_35,Q1.2_36,Q1.2_37,Q1.2_38,Q1.2_39,Q1.2_40,Q1.2_41,Q1.2_42,Q1.2_43,Q1.2_44,Q1.2_45,Q1.2_46,Q1.2_47,Q1.2_48,Q1.2_49,Q1.2_50,Q1.2_51,Q1.2_52,Q1.2_53,Q1.2_54,Q1.2_55,Q1.2_56,Q1.2_57,Q1.2_58,Q1.2_59,Q1.2_60,Q1.2_61,Q1.2_62,Q1.2_63,Q1.2_64,Q1.2_65,Q1.2_66,Q1.2_67,Q1.2_68,Q1.2_69,Q1.2_70,Q1.2_71,Q1.2_72,Q1.2_73,Q1.2_74,Q1.2_75,Q1.2_76,Q1.2_77,Q1.2_78,Q1.2_79,Q1.2_80,Q1.2_81,Q1.2_82,Q1.2_83,Q1.2_84,Q1.3_205,Q1.3_206,Q1.3_207,Q1.3_208,Q1.3_209,Q1.3_210,Q1.3_211,Q1.3_212,Q1.3_213,Q1.3_214,Q1.3_215,Q1.3_216,Q1.3_217,Q1.3_218,Q1.3_219,Q1.3_220,Q1.3_221,Q1.3_222,Q1.3_223,Q1.3_224,Q1.3_225,Q1.3_226,Q1.3_227,Q1.3_228,Q1.3_229,Q1.3_230,Q1.3_231,Q1.3_232,Q1.3_233,Q1.3_234,Q1.3_235,Q1.3_236,Q1.3_237,Q1.3_238,Q1.3_239,Q1.3_240,Q1.3_241,Q1.3_242,Q1.3_243,Q1.3_244,Q1.3_245,Q1.3_246,Q1.3_247,Q1.3_248,Q1.3_249,Q1.3_250,Q1.3_251,Q1.3_253,Q1.3_254,Q1.3_255,Q1.3_256,Q1.3_257,Q1.3_258,Q1.3_259,Q1.3_260,Q1.3_261,Q1.3_262,Q1.3_263,Q1.3_264,Q1.3_265,Q1.3_266,Q1.3_267,Q1.3_268,Q1.3_269,Q1.3_270,Q1.3_271,Q1.3_272,Q1.3_273,Q1.3_274,Q1.3_275,Q1.3_276,Q1.3_277,Q1.3_278,Q1.3_279,Q1.3_280,Q1.3_281,Q1.3_282,Q1.3_283,Q1.3_284,Q1.3_285,Q1.3_286,Q1.3_287,Q1.3_288,Q1.3_289
+Earth quake and burglary cause alarm which leads to johncalls and Mary calls,"1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - earthquake and burglary both sets the alarm off which then johncalls and marycalls.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - You can assume that alarm system is triggered on one of the two events: burglary or earthquake.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - It can be seen from the diagram that both earthquake and burglary events will trigger the alarm and the alarm will inform John and Mary. simply means that they will get called if and only if the aforementioned event occur.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Alarm is triggered by Burglary and Earthquake, then is Calling John and Marry","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - burglary and earthquake can trigger the alarm and when the alarm is triggered john and/or mary will call","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The existence of an alarm, can alert you in case of a break or a natural disaster (earthquake). the alarm attracts your attention, so that depending on the gravity of the situation, you inform the authorities in the field","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Alarm can be set on by any of the event burglary or earthquake resulting in call to john and mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - if burglary or earthquake alarm start and call John and Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm is triggered when there is a burglary or earthquake. If that happens, john and mary will call.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The Alarm can be triggered by Burglary or Earthquake in these cases JohnCalls or  MaryCalls","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - burglary and earthquake can trigger the alarm.  Phone calls by John or Mary do not but if this is a personal call to the house by John and Mary and they try to enter when the alarm is set, then the alarm would be triggered","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - In the event of either burglary or earthquake the alarm will call John or Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - When there is a Burglary or an Earthquake, the alarm is triggered and a call will be made to John or Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm is triggered in the event of either a burglary or an earthquake. (rest is unclear)","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Alarm will be activated either by a burglary or an earthquake. If that happens, John and Mary will get a call","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary and Earthquake both could activate Alarm. When an alarm happens, it will activate the activity of JohnCalls and MaryCalls.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm is triggered by a burglary or an earthquake.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - If there is an eartquake or a burglary the alarm is on and calls john and Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Sensors = Alarm = prevention or ALERT","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary and Earthquake have an effect on Alarm which then goes on to affect JohnCalls and MaryCalls","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - A diagram explaining what triggers an alarm and the effects of an alarm.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary's and earthquakes influence the alarm, which in turn sends alerts to JohnCalls and MaryCalls","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - In case of burglary or earthquake that alarm notifies john and mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - If a burglary or earthquake happen an alarm will notify/call John and Mary.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - In case of an earthquake and/or burglary, the alarm turns on and a call to John and/or Mary is made","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary and earthquakes will cause an alarm to go off. An alarm causes John or Mary to make a call.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm can be set off by burglary and earthquakes and the alarm causes JohnCalls and MaryCalls.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - A burglary or an earthquake can activate the alarm which when activated calls John or Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Whether there is a burglary or an earthquake has an effect on the alarm. And the alarm has an effect on both John and Marry being called.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm can be activated by John calls, Mary calls, earthquake or burglary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Either of Burglary or Earthquake will activate the alarm. The alarm separately calls john & mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - An alarm is triggered from a burglary or from an earthquake. When the alarm goes off, either John calls or Mary calls.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Given an earthquake and/or a burglary an alarm would be triggered which in turn could trigger a call to either john or mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - A burglary or an earthquake will activate the alarm. The alarm will call John and Mary when activated","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - An alarm can be set off either by a burglary or an earthquake. If the alarm goes off, John calls and Mary calls.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Both burglaries and earthquakes influence the state of the alarm. The state of the alarm influences both the probability that John calls and the probability that Mary calls.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - A burglary or an earthquake will activate an alarm that will call John or Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm goes off in the case of a burglary or an earthquake. If the alarm goes off, John and Mary call.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary or Earthquake will trigger an alarm. Alarm can call both John or Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - I hope the alarm has a calling module installed on it.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - There are two triggers for the alarm, burglars and earthquakes, which trigger two responses, a call to John and a call to Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - If there is a burglar or an earthquake either John or Mary gets a call","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - A alarm is triggered with when there is a burglary or when there is an earthquake. The alarm calls John or Mary or both.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Represents an alarm system that is triggered by detected burglary and/or earthquake events. Automatically places calls to John and/or Mary when the alarm is triggered.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - If this is a Bayesian net, a burglary or earthquake taking place (with some probability) will cause the alarm to sound off (again with some probability). This in turns, can lead to a call by John, or a call by Mary (with some probability, as they might not hear the alarm).","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - ""The Alarm can be triggered either by a Burglary or by an Earthquake.The Alarm will trigger JohnCalls and MaryCalls.""","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm may be fired by either burglaries or earthquakes. Once the alarm is fired, the system calls both John and Mary.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Represents an alarm system that is triggered by detected burglary and/or earthquake events. Automatically places calls to John and/or Mary when the alarm is triggered.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - If there is a burglary or an earthquake, the alarm can go off. Whenever the alarm goes off, both John and Mary get notification calls.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary and earthquakes both effect the alarm. The alarm calls both John and Mary.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Alarm is activated by earthquake or burglary. Mary and John receives the alarm call.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - An earthquake or a burglary can set off the alarm. The alarm calls John and Mary.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - If there is a burglary or earthquake an alarm will be activated and inform John and/or May depending on the setting","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm state depends on whether there is a burglary or an earthquake. The alarm state influences the likelihood of John and Mary receiving a call.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglaries and earthquakes affect if the alarm happens. If the alarm happens, then this influences John and Mary calling.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm will go off in case of burglary or earthquake. When the alarm goes off, either(or both) John or(and) Mary will call.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Alarms are triggered by burglaries or earthquakes. John and Mary would both call something (the emergency services?) in the case that an alarm triggers.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Alarm can be caused by a burglar or by an earthquake which does not exclude that the alarm can go off without any rason. The alarm may be heard by John or by Alice (or both) and they call (the policy I guess, ignoring that it might have been a false alarm?), because they believe that the earthquake was unlikely the cause of the alarm such that they don't need to take any action to save themselves from aftershocks.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - A burglary, an earthquake, JohnCalls or MaryCalls enables the alarm.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary and or earthquake trigger the alarm, the alarm ensures John and/or Mary call/are called.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The Alarm going off can happen either because there is a burglary or an earthquake. Given the alarm going off, you MAY get a call from John, Mary or both.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Either a burglary and/ or an earthquake might trigger an alarm which will influence whether a call is made by John and or Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Earthquakes and burglaries cause alarms to be activated. Activated alarms call John and Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - There was a burglary and an earthquake that set off the alarm. after the alarm went off, it dialed john and mary both.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Either burglary of earthquake can make the alarm go off. When the alarm goes off both John and Mary are called.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm can detect Burglary and/or Earthquake events; when such an event is detected, the alarm can call John and/or Mary.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm is triggered by a burglary or an earthquake. When the alarm is triggered, it occurs JohnCalls and MaryCalls.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - An Alarm could be activated by a Burglary or by an Earthquake (possibly with different probabilities). Whether the Alarm has been activated or not has an effect on whether John Calls (the police presumably) and whether Mary Calls. (John and Mary are probably in different rooms, etc, so they would hear the alarm with different probabilities).","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - A burglary or an earthquake can cause the alarm to activate. If the alarm is activated, there's a chance that John calls or Mary calls.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Either a burglary of an earthquake will influence the alarm. It will influence calling both John and Mary.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary or earthquake can cause the alarm to activate; alarm results in a call to Mary or John","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary and Earthquake influence Alarm which influences both JohnCalls and MaryCalls","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - burglary and earthquake independently affect alarm, Alarm affects both calls","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm can go off due to a burglary or an earthquake, when the alarm goes off it calls both John and Mary.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm may ring if there's either a burglary or an earthquake, and when the alarm rings, both John and Mary might be called.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Burglary causes alarm to turn on. Similarly, earthquake causes alarm to turn on. In both cases, when an alarm is turned on, John and Mary receive phone calls by an automated system.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - If a burglary OR an earthquake happens, an alarm will determine calling John AND Mary","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Both burglary and earthquake cause an alarm to be activated. The alarm causes (phone?) calls to John and Mary.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - burglary and earthquake set the alarm off, which makes both mary and john make calls","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Alarm is triggered by Burglary or Earthquake.  If the alarm triggers, John and Mary are called.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm is triggered by either Burglary or earthquake. The alarm might activate John calls or Mary's call.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - The alarm can go off from either a burglary, or an earthquake. When the alarm goes off this results in automatic phone calls to both John and Mary.","1. Rate each explanation on scale of 7 in terms of informativeness.
+
+ 
+Please read these explanations and drag the slider to a point on the scale that best describes how relevant the information of an explanation is. Please answer as honestly as possible. - Both a burglary or an earthquake will lead to an alarm being set off. The alarm being set off will trigger both John and Mary to be contacted informing them the alarm has been triggered. It does not make clear if this alert would tell them why the alarm went off.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Earth quake and burglary cause alarm which leads to johncalls and Mary calls","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - earthquake and burglary both sets the alarm off which then johncalls and marycalls.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - You can assume that alarm system is triggered on one of the two events: burglary or earthquake.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - It can be seen from the diagram that both earthquake and burglary events will trigger the alarm and the alarm will inform John and Mary. simply means that they will get called if and only if the aforementioned event occur.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Alarm is triggered by Burglary and Earthquake, then is Calling John and Marry","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - burglary and earthquake can trigger the alarm and when the alarm is triggered john and/or mary will call","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The existence of an alarm, can alert you in case of a break or a natural disaster (earthquake). the alarm attracts your attention, so that depending on the gravity of the situation, you inform the authorities in the field","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Alarm can be set on by any of the event burglary or earthquake resulting in call to john and mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - if burglary or earthquake alarm start and call John and Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm is triggered when there is a burglary or earthquake. If that happens, john and mary will call.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The Alarm can be triggered by Burglary or Earthquake in these cases JohnCalls or  MaryCalls","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - burglary and earthquake can trigger the alarm.  Phone calls by John or Mary do not but if this is a personal call to the house by John and Mary and they try to enter when the alarm is set, then the alarm would be triggered","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - In the event of either burglary or earthquake the alarm will call John or Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - When there is a Burglary or an Earthquake, the alarm is triggered and a call will be made to John or Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm is triggered in the event of either a burglary or an earthquake. (rest is unclear)","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Alarm will be activated either by a burglary or an earthquake. If that happens, John and Mary will get a call","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary and Earthquake both could activate Alarm. When an alarm happens, it will activate the activity of JohnCalls and MaryCalls.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm is triggered by a burglary or an earthquake.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - If there is an eartquake or a burglary the alarm is on and calls john and Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Sensors = Alarm = prevention or ALERT","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary and Earthquake have an effect on Alarm which then goes on to affect JohnCalls and MaryCalls","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - A diagram explaining what triggers an alarm and the effects of an alarm.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary's and earthquakes influence the alarm, which in turn sends alerts to JohnCalls and MaryCalls","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - In case of burglary or earthquake that alarm notifies john and mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - If a burglary or earthquake happen an alarm will notify/call John and Mary.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - In case of an earthquake and/or burglary, the alarm turns on and a call to John and/or Mary is made","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary and earthquakes will cause an alarm to go off. An alarm causes John or Mary to make a call.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm can be set off by burglary and earthquakes and the alarm causes JohnCalls and MaryCalls.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - A burglary or an earthquake can activate the alarm which when activated calls John or Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Whether there is a burglary or an earthquake has an effect on the alarm. And the alarm has an effect on both John and Marry being called.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm can be activated by John calls, Mary calls, earthquake or burglary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Either of Burglary or Earthquake will activate the alarm. The alarm separately calls john & mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - An alarm is triggered from a burglary or from an earthquake. When the alarm goes off, either John calls or Mary calls.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Given an earthquake and/or a burglary an alarm would be triggered which in turn could trigger a call to either john or mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - A burglary or an earthquake will activate the alarm. The alarm will call John and Mary when activated","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - An alarm can be set off either by a burglary or an earthquake. If the alarm goes off, John calls and Mary calls.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Both burglaries and earthquakes influence the state of the alarm. The state of the alarm influences both the probability that John calls and the probability that Mary calls.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - A burglary or an earthquake will activate an alarm that will call John or Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm goes off in the case of a burglary or an earthquake. If the alarm goes off, John and Mary call.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary or Earthquake will trigger an alarm. Alarm can call both John or Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - I hope the alarm has a calling module installed on it.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - There are two triggers for the alarm, burglars and earthquakes, which trigger two responses, a call to John and a call to Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - If there is a burglar or an earthquake either John or Mary gets a call","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - A alarm is triggered with when there is a burglary or when there is an earthquake. The alarm calls John or Mary or both.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Represents an alarm system that is triggered by detected burglary and/or earthquake events. Automatically places calls to John and/or Mary when the alarm is triggered.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - If this is a Bayesian net, a burglary or earthquake taking place (with some probability) will cause the alarm to sound off (again with some probability). This in turns, can lead to a call by John, or a call by Mary (with some probability, as they might not hear the alarm).","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - ""The Alarm can be triggered either by a Burglary or by an Earthquake.The Alarm will trigger JohnCalls and MaryCalls.""","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm may be fired by either burglaries or earthquakes. Once the alarm is fired, the system calls both John and Mary.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Represents an alarm system that is triggered by detected burglary and/or earthquake events. Automatically places calls to John and/or Mary when the alarm is triggered.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - If there is a burglary or an earthquake, the alarm can go off. Whenever the alarm goes off, both John and Mary get notification calls.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary and earthquakes both effect the alarm. The alarm calls both John and Mary.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Alarm is activated by earthquake or burglary. Mary and John receives the alarm call.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - An earthquake or a burglary can set off the alarm. The alarm calls John and Mary.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - If there is a burglary or earthquake an alarm will be activated and inform John and/or May depending on the setting","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm state depends on whether there is a burglary or an earthquake. The alarm state influences the likelihood of John and Mary receiving a call.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglaries and earthquakes affect if the alarm happens. If the alarm happens, then this influences John and Mary calling.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm will go off in case of burglary or earthquake. When the alarm goes off, either(or both) John or(and) Mary will call.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Alarms are triggered by burglaries or earthquakes. John and Mary would both call something (the emergency services?) in the case that an alarm triggers.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Alarm can be caused by a burglar or by an earthquake which does not exclude that the alarm can go off without any rason. The alarm may be heard by John or by Alice (or both) and they call (the policy I guess, ignoring that it might have been a false alarm?), because they believe that the earthquake was unlikely the cause of the alarm such that they don't need to take any action to save themselves from aftershocks.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - A burglary, an earthquake, JohnCalls or MaryCalls enables the alarm.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary and or earthquake trigger the alarm, the alarm ensures John and/or Mary call/are called.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The Alarm going off can happen either because there is a burglary or an earthquake. Given the alarm going off, you MAY get a call from John, Mary or both.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Either a burglary and/ or an earthquake might trigger an alarm which will influence whether a call is made by John and or Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Earthquakes and burglaries cause alarms to be activated. Activated alarms call John and Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - There was a burglary and an earthquake that set off the alarm. after the alarm went off, it dialed john and mary both.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Either burglary of earthquake can make the alarm go off. When the alarm goes off both John and Mary are called.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm can detect Burglary and/or Earthquake events; when such an event is detected, the alarm can call John and/or Mary.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm is triggered by a burglary or an earthquake. When the alarm is triggered, it occurs JohnCalls and MaryCalls.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - An Alarm could be activated by a Burglary or by an Earthquake (possibly with different probabilities). Whether the Alarm has been activated or not has an effect on whether John Calls (the police presumably) and whether Mary Calls. (John and Mary are probably in different rooms, etc, so they would hear the alarm with different probabilities).","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - A burglary or an earthquake can cause the alarm to activate. If the alarm is activated, there's a chance that John calls or Mary calls.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Either a burglary of an earthquake will influence the alarm. It will influence calling both John and Mary.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary or earthquake can cause the alarm to activate; alarm results in a call to Mary or John","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary and Earthquake influence Alarm which influences both JohnCalls and MaryCalls","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - burglary and earthquake independently affect alarm, Alarm affects both calls","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm can go off due to a burglary or an earthquake, when the alarm goes off it calls both John and Mary.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm may ring if there's either a burglary or an earthquake, and when the alarm rings, both John and Mary might be called.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Burglary causes alarm to turn on. Similarly, earthquake causes alarm to turn on. In both cases, when an alarm is turned on, John and Mary receive phone calls by an automated system.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - If a burglary OR an earthquake happens, an alarm will determine calling John AND Mary","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Both burglary and earthquake cause an alarm to be activated. The alarm causes (phone?) calls to John and Mary.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - burglary and earthquake set the alarm off, which makes both mary and john make calls","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Alarm is triggered by Burglary or Earthquake.  If the alarm triggers, John and Mary are called.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm is triggered by either Burglary or earthquake. The alarm might activate John calls or Mary's call.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - The alarm can go off from either a burglary, or an earthquake. When the alarm goes off this results in automatic phone calls to both John and Mary.","2. Rate each explanation on scale of 7 in terms of clarity of explanation.
+
+
+
+Please read these explanations and drag the slider to a point on the scale that best describes how clear the meaning of an explanation is. Please answer as honestly as possible. - Both a burglary or an earthquake will lead to an alarm being set off. The alarm being set off will trigger both John and Mary to be contacted informing them the alarm has been triggered. It does not make clear if this alert would tell them why the alarm went off.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Earth quake and burglary cause alarm which leads to johncalls and Mary calls","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - earthquake and burglary both sets the alarm off which then johncalls and marycalls.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - You can assume that alarm system is triggered on one of the two events: burglary or earthquake.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - It can be seen from the diagram that both earthquake and burglary events will trigger the alarm and the alarm will inform John and Mary. simply means that they will get called if and only if the aforementioned event occur.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Alarm is triggered by Burglary and Earthquake, then is Calling John and Marry","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - burglary and earthquake can trigger the alarm and when the alarm is triggered john and/or mary will call","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The existence of an alarm, can alert you in case of a break or a natural disaster (earthquake). the alarm attracts your attention, so that depending on the gravity of the situation, you inform the authorities in the field","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Alarm can be set on by any of the event burglary or earthquake resulting in call to john and mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - if burglary or earthquake alarm start and call John and Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm is triggered when there is a burglary or earthquake. If that happens, john and mary will call.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The Alarm can be triggered by Burglary or Earthquake in these cases JohnCalls or  MaryCalls","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - burglary and earthquake can trigger the alarm.  Phone calls by John or Mary do not but if this is a personal call to the house by John and Mary and they try to enter when the alarm is set, then the alarm would be triggered","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - In the event of either burglary or earthquake the alarm will call John or Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - When there is a Burglary or an Earthquake, the alarm is triggered and a call will be made to John or Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm is triggered in the event of either a burglary or an earthquake. (rest is unclear)","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Alarm will be activated either by a burglary or an earthquake. If that happens, John and Mary will get a call","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary and Earthquake both could activate Alarm. When an alarm happens, it will activate the activity of JohnCalls and MaryCalls.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm is triggered by a burglary or an earthquake.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - If there is an eartquake or a burglary the alarm is on and calls john and Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Sensors = Alarm = prevention or ALERT","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary and Earthquake have an effect on Alarm which then goes on to affect JohnCalls and MaryCalls","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - A diagram explaining what triggers an alarm and the effects of an alarm.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary's and earthquakes influence the alarm, which in turn sends alerts to JohnCalls and MaryCalls","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - In case of burglary or earthquake that alarm notifies john and mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - If a burglary or earthquake happen an alarm will notify/call John and Mary.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - In case of an earthquake and/or burglary, the alarm turns on and a call to John and/or Mary is made","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary and earthquakes will cause an alarm to go off. An alarm causes John or Mary to make a call.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm can be set off by burglary and earthquakes and the alarm causes JohnCalls and MaryCalls.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - A burglary or an earthquake can activate the alarm which when activated calls John or Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Whether there is a burglary or an earthquake has an effect on the alarm. And the alarm has an effect on both John and Marry being called.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm can be activated by John calls, Mary calls, earthquake or burglary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Either of Burglary or Earthquake will activate the alarm. The alarm separately calls john & mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - An alarm is triggered from a burglary or from an earthquake. When the alarm goes off, either John calls or Mary calls.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Given an earthquake and/or a burglary an alarm would be triggered which in turn could trigger a call to either john or mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - A burglary or an earthquake will activate the alarm. The alarm will call John and Mary when activated","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - An alarm can be set off either by a burglary or an earthquake. If the alarm goes off, John calls and Mary calls.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Both burglaries and earthquakes influence the state of the alarm. The state of the alarm influences both the probability that John calls and the probability that Mary calls.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - A burglary or an earthquake will activate an alarm that will call John or Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm goes off in the case of a burglary or an earthquake. If the alarm goes off, John and Mary call.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary or Earthquake will trigger an alarm. Alarm can call both John or Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - I hope the alarm has a calling module installed on it.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - There are two triggers for the alarm, burglars and earthquakes, which trigger two responses, a call to John and a call to Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - If there is a burglar or an earthquake either John or Mary gets a call","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - A alarm is triggered with when there is a burglary or when there is an earthquake. The alarm calls John or Mary or both.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Represents an alarm system that is triggered by detected burglary and/or earthquake events. Automatically places calls to John and/or Mary when the alarm is triggered.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - If this is a Bayesian net, a burglary or earthquake taking place (with some probability) will cause the alarm to sound off (again with some probability). This in turns, can lead to a call by John, or a call by Mary (with some probability, as they might not hear the alarm).","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - ""The Alarm can be triggered either by a Burglary or by an Earthquake.The Alarm will trigger JohnCalls and MaryCalls.""","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm may be fired by either burglaries or earthquakes. Once the alarm is fired, the system calls both John and Mary.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Represents an alarm system that is triggered by detected burglary and/or earthquake events. Automatically places calls to John and/or Mary when the alarm is triggered.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - If there is a burglary or an earthquake, the alarm can go off. Whenever the alarm goes off, both John and Mary get notification calls.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary and earthquakes both effect the alarm. The alarm calls both John and Mary.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Alarm is activated by earthquake or burglary. Mary and John receives the alarm call.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - An earthquake or a burglary can set off the alarm. The alarm calls John and Mary.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - If there is a burglary or earthquake an alarm will be activated and inform John and/or May depending on the setting","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm state depends on whether there is a burglary or an earthquake. The alarm state influences the likelihood of John and Mary receiving a call.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglaries and earthquakes affect if the alarm happens. If the alarm happens, then this influences John and Mary calling.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm will go off in case of burglary or earthquake. When the alarm goes off, either(or both) John or(and) Mary will call.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Alarms are triggered by burglaries or earthquakes. John and Mary would both call something (the emergency services?) in the case that an alarm triggers.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Alarm can be caused by a burglar or by an earthquake which does not exclude that the alarm can go off without any rason. The alarm may be heard by John or by Alice (or both) and they call (the policy I guess, ignoring that it might have been a false alarm?), because they believe that the earthquake was unlikely the cause of the alarm such that they don't need to take any action to save themselves from aftershocks.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - A burglary, an earthquake, JohnCalls or MaryCalls enables the alarm.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary and or earthquake trigger the alarm, the alarm ensures John and/or Mary call/are called.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The Alarm going off can happen either because there is a burglary or an earthquake. Given the alarm going off, you MAY get a call from John, Mary or both.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Either a burglary and/ or an earthquake might trigger an alarm which will influence whether a call is made by John and or Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Earthquakes and burglaries cause alarms to be activated. Activated alarms call John and Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - There was a burglary and an earthquake that set off the alarm. after the alarm went off, it dialed john and mary both.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Either burglary of earthquake can make the alarm go off. When the alarm goes off both John and Mary are called.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm can detect Burglary and/or Earthquake events; when such an event is detected, the alarm can call John and/or Mary.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm is triggered by a burglary or an earthquake. When the alarm is triggered, it occurs JohnCalls and MaryCalls.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - An Alarm could be activated by a Burglary or by an Earthquake (possibly with different probabilities). Whether the Alarm has been activated or not has an effect on whether John Calls (the police presumably) and whether Mary Calls. (John and Mary are probably in different rooms, etc, so they would hear the alarm with different probabilities).","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - A burglary or an earthquake can cause the alarm to activate. If the alarm is activated, there's a chance that John calls or Mary calls.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Either a burglary of an earthquake will influence the alarm. It will influence calling both John and Mary.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary or earthquake can cause the alarm to activate; alarm results in a call to Mary or John","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary and Earthquake influence Alarm which influences both JohnCalls and MaryCalls","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - burglary and earthquake independently affect alarm, Alarm affects both calls","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm can go off due to a burglary or an earthquake, when the alarm goes off it calls both John and Mary.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm may ring if there's either a burglary or an earthquake, and when the alarm rings, both John and Mary might be called.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Burglary causes alarm to turn on. Similarly, earthquake causes alarm to turn on. In both cases, when an alarm is turned on, John and Mary receive phone calls by an automated system.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - If a burglary OR an earthquake happens, an alarm will determine calling John AND Mary","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Both burglary and earthquake cause an alarm to be activated. The alarm causes (phone?) calls to John and Mary.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - burglary and earthquake set the alarm off, which makes both mary and john make calls","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Alarm is triggered by Burglary or Earthquake.  If the alarm triggers, John and Mary are called.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm is triggered by either Burglary or earthquake. The alarm might activate John calls or Mary's call.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - The alarm can go off from either a burglary, or an earthquake. When the alarm goes off this results in automatic phone calls to both John and Mary.","3. Please rank the following explanations in order of effectiveness from 1 to 5, by dragging the explanations up and down.
+1 is Extremely effective to you and 5 is Not effective. - Both a burglary or an earthquake will lead to an alarm being set off. The alarm being set off will trigger both John and Mary to be contacted informing them the alarm has been triggered. It does not make clear if this alert would tell them why the alarm went off."
+"{""ImportId"":""QID30_205""}","{""ImportId"":""QID30_206""}","{""ImportId"":""QID30_207""}","{""ImportId"":""QID30_208""}","{""ImportId"":""QID30_209""}","{""ImportId"":""QID30_210""}","{""ImportId"":""QID30_211""}","{""ImportId"":""QID30_212""}","{""ImportId"":""QID30_213""}","{""ImportId"":""QID30_214""}","{""ImportId"":""QID30_215""}","{""ImportId"":""QID30_216""}","{""ImportId"":""QID30_217""}","{""ImportId"":""QID30_218""}","{""ImportId"":""QID30_219""}","{""ImportId"":""QID30_220""}","{""ImportId"":""QID30_221""}","{""ImportId"":""QID30_222""}","{""ImportId"":""QID30_223""}","{""ImportId"":""QID30_224""}","{""ImportId"":""QID30_225""}","{""ImportId"":""QID30_226""}","{""ImportId"":""QID30_227""}","{""ImportId"":""QID30_228""}","{""ImportId"":""QID30_229""}","{""ImportId"":""QID30_230""}","{""ImportId"":""QID30_231""}","{""ImportId"":""QID30_232""}","{""ImportId"":""QID30_233""}","{""ImportId"":""QID30_234""}","{""ImportId"":""QID30_235""}","{""ImportId"":""QID30_236""}","{""ImportId"":""QID30_237""}","{""ImportId"":""QID30_238""}","{""ImportId"":""QID30_239""}","{""ImportId"":""QID30_240""}","{""ImportId"":""QID30_241""}","{""ImportId"":""QID30_242""}","{""ImportId"":""QID30_243""}","{""ImportId"":""QID30_244""}","{""ImportId"":""QID30_245""}","{""ImportId"":""QID30_246""}","{""ImportId"":""QID30_247""}","{""ImportId"":""QID30_248""}","{""ImportId"":""QID30_249""}","{""ImportId"":""QID30_250""}","{""ImportId"":""QID30_251""}","{""ImportId"":""QID30_253""}","{""ImportId"":""QID30_254""}","{""ImportId"":""QID30_255""}","{""ImportId"":""QID30_256""}","{""ImportId"":""QID30_257""}","{""ImportId"":""QID30_258""}","{""ImportId"":""QID30_259""}","{""ImportId"":""QID30_260""}","{""ImportId"":""QID30_261""}","{""ImportId"":""QID30_262""}","{""ImportId"":""QID30_263""}","{""ImportId"":""QID30_264""}","{""ImportId"":""QID30_265""}","{""ImportId"":""QID30_266""}","{""ImportId"":""QID30_267""}","{""ImportId"":""QID30_268""}","{""ImportId"":""QID30_269""}","{""ImportId"":""QID30_270""}","{""ImportId"":""QID30_271""}","{""ImportId"":""QID30_272""}","{""ImportId"":""QID30_273""}","{""ImportId"":""QID30_274""}","{""ImportId"":""QID30_275""}","{""ImportId"":""QID30_276""}","{""ImportId"":""QID30_277""}","{""ImportId"":""QID30_278""}","{""ImportId"":""QID30_279""}","{""ImportId"":""QID30_280""}","{""ImportId"":""QID30_281""}","{""ImportId"":""QID30_282""}","{""ImportId"":""QID30_283""}","{""ImportId"":""QID30_284""}","{""ImportId"":""QID30_285""}","{""ImportId"":""QID30_286""}","{""ImportId"":""QID30_287""}","{""ImportId"":""QID30_288""}","{""ImportId"":""QID30_289""}","{""ImportId"":""QID36_x205""}","{""ImportId"":""QID36_x206""}","{""ImportId"":""QID36_x207""}","{""ImportId"":""QID36_x208""}","{""ImportId"":""QID36_x209""}","{""ImportId"":""QID36_x210""}","{""ImportId"":""QID36_x211""}","{""ImportId"":""QID36_x212""}","{""ImportId"":""QID36_x213""}","{""ImportId"":""QID36_x214""}","{""ImportId"":""QID36_x215""}","{""ImportId"":""QID36_x216""}","{""ImportId"":""QID36_x217""}","{""ImportId"":""QID36_x218""}","{""ImportId"":""QID36_x219""}","{""ImportId"":""QID36_x220""}","{""ImportId"":""QID36_x221""}","{""ImportId"":""QID36_x222""}","{""ImportId"":""QID36_x223""}","{""ImportId"":""QID36_x224""}","{""ImportId"":""QID36_x225""}","{""ImportId"":""QID36_x226""}","{""ImportId"":""QID36_x227""}","{""ImportId"":""QID36_x228""}","{""ImportId"":""QID36_x229""}","{""ImportId"":""QID36_x230""}","{""ImportId"":""QID36_x231""}","{""ImportId"":""QID36_x232""}","{""ImportId"":""QID36_x233""}","{""ImportId"":""QID36_x234""}","{""ImportId"":""QID36_x235""}","{""ImportId"":""QID36_x236""}","{""ImportId"":""QID36_x237""}","{""ImportId"":""QID36_x238""}","{""ImportId"":""QID36_x239""}","{""ImportId"":""QID36_x240""}","{""ImportId"":""QID36_x241""}","{""ImportId"":""QID36_x242""}","{""ImportId"":""QID36_x243""}","{""ImportId"":""QID36_x244""}","{""ImportId"":""QID36_x245""}","{""ImportId"":""QID36_x246""}","{""ImportId"":""QID36_x247""}","{""ImportId"":""QID36_x248""}","{""ImportId"":""QID36_x249""}","{""ImportId"":""QID36_x250""}","{""ImportId"":""QID36_x251""}","{""ImportId"":""QID36_x253""}","{""ImportId"":""QID36_x254""}","{""ImportId"":""QID36_x255""}","{""ImportId"":""QID36_x256""}","{""ImportId"":""QID36_x257""}","{""ImportId"":""QID36_x258""}","{""ImportId"":""QID36_x259""}","{""ImportId"":""QID36_x260""}","{""ImportId"":""QID36_x261""}","{""ImportId"":""QID36_x262""}","{""ImportId"":""QID36_x263""}","{""ImportId"":""QID36_x264""}","{""ImportId"":""QID36_x265""}","{""ImportId"":""QID36_x266""}","{""ImportId"":""QID36_x267""}","{""ImportId"":""QID36_x268""}","{""ImportId"":""QID36_x269""}","{""ImportId"":""QID36_x270""}","{""ImportId"":""QID36_x271""}","{""ImportId"":""QID36_x272""}","{""ImportId"":""QID36_x273""}","{""ImportId"":""QID36_x274""}","{""ImportId"":""QID36_x275""}","{""ImportId"":""QID36_x276""}","{""ImportId"":""QID36_x277""}","{""ImportId"":""QID36_x278""}","{""ImportId"":""QID36_x279""}","{""ImportId"":""QID36_x280""}","{""ImportId"":""QID36_x281""}","{""ImportId"":""QID36_x282""}","{""ImportId"":""QID36_x283""}","{""ImportId"":""QID36_x284""}","{""ImportId"":""QID36_x285""}","{""ImportId"":""QID36_x286""}","{""ImportId"":""QID36_x287""}","{""ImportId"":""QID36_x288""}","{""ImportId"":""QID36_x289""}","{""ImportId"":""QID37_1""}","{""ImportId"":""QID37_2""}","{""ImportId"":""QID37_3""}","{""ImportId"":""QID37_4""}","{""ImportId"":""QID37_5""}","{""ImportId"":""QID37_6""}","{""ImportId"":""QID37_7""}","{""ImportId"":""QID37_8""}","{""ImportId"":""QID37_9""}","{""ImportId"":""QID37_10""}","{""ImportId"":""QID37_11""}","{""ImportId"":""QID37_12""}","{""ImportId"":""QID37_13""}","{""ImportId"":""QID37_14""}","{""ImportId"":""QID37_15""}","{""ImportId"":""QID37_16""}","{""ImportId"":""QID37_17""}","{""ImportId"":""QID37_18""}","{""ImportId"":""QID37_19""}","{""ImportId"":""QID37_20""}","{""ImportId"":""QID37_21""}","{""ImportId"":""QID37_22""}","{""ImportId"":""QID37_23""}","{""ImportId"":""QID37_24""}","{""ImportId"":""QID37_25""}","{""ImportId"":""QID37_26""}","{""ImportId"":""QID37_27""}","{""ImportId"":""QID37_28""}","{""ImportId"":""QID37_29""}","{""ImportId"":""QID37_30""}","{""ImportId"":""QID37_31""}","{""ImportId"":""QID37_32""}","{""ImportId"":""QID37_33""}","{""ImportId"":""QID37_34""}","{""ImportId"":""QID37_35""}","{""ImportId"":""QID37_36""}","{""ImportId"":""QID37_37""}","{""ImportId"":""QID37_38""}","{""ImportId"":""QID37_39""}","{""ImportId"":""QID37_40""}","{""ImportId"":""QID37_41""}","{""ImportId"":""QID37_42""}","{""ImportId"":""QID37_43""}","{""ImportId"":""QID37_44""}","{""ImportId"":""QID37_45""}","{""ImportId"":""QID37_46""}","{""ImportId"":""QID37_47""}","{""ImportId"":""QID37_48""}","{""ImportId"":""QID37_49""}","{""ImportId"":""QID37_50""}","{""ImportId"":""QID37_51""}","{""ImportId"":""QID37_52""}","{""ImportId"":""QID37_53""}","{""ImportId"":""QID37_54""}","{""ImportId"":""QID37_55""}","{""ImportId"":""QID37_56""}","{""ImportId"":""QID37_57""}","{""ImportId"":""QID37_58""}","{""ImportId"":""QID37_59""}","{""ImportId"":""QID37_60""}","{""ImportId"":""QID37_61""}","{""ImportId"":""QID37_62""}","{""ImportId"":""QID37_63""}","{""ImportId"":""QID37_64""}","{""ImportId"":""QID37_65""}","{""ImportId"":""QID37_66""}","{""ImportId"":""QID37_67""}","{""ImportId"":""QID37_68""}","{""ImportId"":""QID37_69""}","{""ImportId"":""QID37_70""}","{""ImportId"":""QID37_71""}","{""ImportId"":""QID37_72""}","{""ImportId"":""QID37_73""}","{""ImportId"":""QID37_74""}","{""ImportId"":""QID37_75""}","{""ImportId"":""QID37_76""}","{""ImportId"":""QID37_77""}","{""ImportId"":""QID37_78""}","{""ImportId"":""QID37_79""}","{""ImportId"":""QID37_80""}","{""ImportId"":""QID37_81""}","{""ImportId"":""QID37_82""}","{""ImportId"":""QID37_83""}","{""ImportId"":""QID37_84""}"
+,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,3,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,2,,,,2,,,,,,2,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,3,,,,1,,,,,,2,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,4,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,4,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,1,,,
+,,,,,,,,2,,3,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,4,,4,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,5,,3,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,
+,,5,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,4,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,3,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,4,,,,
+,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,
+,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,6,,,,,,,,,,,5,,,,,,,6,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,5,,,,,,,,,,,2,,,,,,,4,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,3,,,,,,,,,,,4,,,,,,,2,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,2,4,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,2,,,,,,,,,,4,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,4,,,,,,,,,,3,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,4,,,,,,,,,,5,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,
+,,,,,,5,,3,,,,,,,,,,,1,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,5,,2,,,,,,,,,,,1,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,2,,4,,,,,,,,,,,5,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,
+,,,,,,,,,,,,,,,,,,,,,,,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,1,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,6,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,5,,,,,,,,4,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,4,,,,,5,,,,,7,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,4,,,,,6,,,,,4,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,5,,,,,3,,,,,4,,,,,,,1,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,2,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,6,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,6,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,1,,,,,,,,,,,,3,,,,,,,,
+,4,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,3,,,,,,,3,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,6,,,,,,,4,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,2,,,,,
+,,,,,,,,,,6,,,,,7,,,,,,,,7,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,7,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,1,,,,,,,,2,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,7,,,,7,,1,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,7,,,,6,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,1,,,,2,,5,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5,,7,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,6,,6,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,2,,1,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,4,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,4,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,3,,,,,,,,,,,,,,,,2,,,
+,,,,,,,,2,3,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,2,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,4,,5,1,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,4,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,3,,,,,,,,,,,,4,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,5,,,,,,,,,,,,4,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,3,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,7,,,,,,,,2,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,7,,,,,,,,2,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,1,,,,,,,,5,,,,4,,,,,,
+,,,,,,,,,,,,,,,,,7,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,7,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,1,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,2,,,,,,,,,,,,,,,,,,,,5,,,,,,,
+,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,2,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,5,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,5,,,,,,,7,,3,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,7,,3,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,1,,5,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,7,,,,,,,,,,,,6,,,,,,,,,,,,,,,,3,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,6,,,,,,,,,,,,7,,,,,,,,,,,,,,,,2,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,1,,,,,,,,,,,,2,,,,,,,,,,,,,,,,4,,,,
+,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,7,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,7,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,2,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,6,,,,,,,,,2,,,,,,,,,,,,1,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,6,,,,,,,,,2,,,,,,,,,,,,4,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,1,,,,,,,,,4,,,,,,,,,,,,5,,,,,3,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,7,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,7,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,1,,2,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,1,,,7,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,5,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,3,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,5,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,5,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,3,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,1,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,3,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,3,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,4,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,2,,,,,,,,,
+,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,6,,,,,,,,5,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,4,,,,,,,,7,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,2,,,,,,,,1,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,4,,,,2,,,,,,,,,,,,,4,,,7,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,1,,,,,,,,,,,,,4,,,6,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,4,,,,,,,,,,,,,2,,,1,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,3,,,,,,,1,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,,,,,,,,,,,,,,,3,,,,,,,4,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,,,,,,,,,,,,,,,4,,,,,,,5,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2
+,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,,,,,,,,,,,,,,,,,,,,,,1,,
+,,,,,,,,,,,,,,,,,,,,2,,,7,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,1,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,6,,,,,,,,3,,,,1,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,6,,,,,,,,5,,,,1,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,1,,,,,,,,3,,,,5,,,,,,,,,,,,,4,,,,,,,,,,,
+,,,,,,,,1,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,2,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,2,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,5,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,,,,,,,,,,,,3,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,2,,,,,,,,3,,,,,,,,,,,,,,,,,,4,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,4,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,5,,,,,,,,3,,,,,,,,,,,,,,,,,,1,,,,,2,,,,,,,,,,,,,,,,,
+,,,,,,4,,,,,4,6,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,1,,,,,1,6,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,5,,,,,4,1,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,
+,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,4,,5,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,,5,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,,4,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,5,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,3,,,,6,,,,,,,,,,,,,,,,,5,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,2,,,,7,,,,,,,,,,,,,,,,,2,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,5,,,,3,
+,,,,5,,2,,,,,,,,,,,,,,2,,2,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,2,,,,,,,,,,,,,,2,,3,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,5,,,,,,,,,,,,,,4,,3,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,7,,1,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,7,,5,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,1
+,,,7,,,2,,,,,,,,,7,,,,,,,,,,5,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,2,,,,,,,,,6,,,,,,,,,,7,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,5,,,,,,,,,2,,,,,,,,,,1,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2,,,3,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,6,,,,,,,,,,,,,,,,,,,,2,,,3,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,7,,,,,,,,,,,,,,,,,,,,5,,,4,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,3,,,,,,,,,,,,,,,,,,
+,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,2,,,,,,4,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,4,,,,,,4,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,5,,,,,,3,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,4,,,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,6,,,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,4,,,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,3,,,,,,,,,,,,7,,,,6,,,,,,,,,,,,,,,7,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,4,,,,3,,,,,,,,,,,,,,,6,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,3,,,,4,,,,,,,,,,,,,,,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,5,,,7,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,3,,,7,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,4,,,1,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,2,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,2,,,,7,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,2,,,,7,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,4,,,,1,,,,,,,,,,,
+,,,5,,,,,,,3,,6,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,3,,,,,,,2,,6,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,3,,,,,,,5,,1,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,3,,,,,,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,1,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,2,,2,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,3,,2,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,
+,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,6,,5,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,6,,5,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,3,,4,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,3,,,,3,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,5,,,,5,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,1,,,,2,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,
