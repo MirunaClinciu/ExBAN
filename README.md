@@ -27,3 +27,14 @@ Clinciu, Miruna-Adriana, Arash Eshghi, and Helen Hastie. "A Study of Automatic M
     pages = "2376--2387",
     abstract = "As transparency becomes key for robotics and AI, it will be necessary to evaluate the methods through which transparency is provided, including automatically generated natural language (NL) explanations. Here, we explore parallels between the generation of such explanations and the much-studied field of evaluation of Natural Language Generation (NLG). Specifically, we investigate which of the NLG evaluation measures map well to explanations. We present the ExBAN corpus: a crowd-sourced corpus of NL explanations for Bayesian Networks. We run correlations comparing human subjective ratings with NLG automatic measures. We find that embedding-based automatic NLG evaluation methods, such as BERTScore and BLEURT, have a higher correlation with human ratings, compared to word-overlap metrics, such as BLEU and ROUGE. This work has implications for Explainable AI and transparent robotic and autonomous systems.",
 }
+
+@misc{Clinciu2021_exban,
+  author = {Miruna Clinciu},
+  title = {Ex{BAN} {C}orpus},
+  year = {2021},
+ version = {v1.0},
+  howpublished = {\url{https://github.com/MirunaClinciu/ExBAN}},
+  note = {Openly available dataset},
+  accessed = {October 16, 2024}
+}
+
