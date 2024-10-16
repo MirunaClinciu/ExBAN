@@ -22,8 +22,10 @@ keywords:
   - Transparency in AI
   - Dataset
 license: "CC-BY-4.0"
+preferred-citation:
+
 references:
-  - type: conference-paper
+  - type: dataset
     title: "A Study of Automatic Metrics for the Evaluation of Natural Language Explanations"
     authors:
       - family-names: "Clinciu"
