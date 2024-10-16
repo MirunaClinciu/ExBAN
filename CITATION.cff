@@ -1,11 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the following metadata."
-title: "ExBAN Corpus"
+title: "ExBAN Corpus (Versiunea V1)"
 version: "V1"
 type: dataset
 authors:
   - family-names: "Clinciu"
     given-names: "Miruna-Adriana"
+    orcid: "https://orcid.org/0000-0002-XXXX-XXXX"  # Add ORCID if available
   - family-names: "Eshghi"
     given-names: "Arash"
   - family-names: "Hastie"
@@ -14,17 +15,17 @@ date-released: "2021-04-01"
 doi: "10.5281/zenodo.13940986"
 url: "https://doi.org/10.5281/zenodo.13940986"
 abstract: >
-  As transparency becomes key for robotics and AI, it will be necessary to 
-  evaluate the methods through which transparency is provided, including 
-  automatically generated natural language (NL) explanations. This dataset, part 
-  of the ExBAN corpus, includes crowd-sourced NL explanations for Bayesian 
-  Networks.
+  The ExBAN Corpus is a crowd-sourced dataset of natural language explanations 
+  for Bayesian Networks. This dataset was introduced as part of a study on the 
+  evaluation of natural language explanations in AI, presented at the 16th 
+  Conference of the European Chapter of the Association for Computational 
+  Linguistics (EACL).
 keywords:
   - "Explainable AI"
   - "Bayesian Networks"
   - "Natural Language Processing"
-  - "Transparency in AI"
-  - "Dataset"
+  - "Natural Language Explanations"
+  - "Data Set"
 license: "CC-BY-4.0"
 references:
   - type: conference-paper
