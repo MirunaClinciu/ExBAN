@@ -27,7 +27,7 @@ keywords:
   - Transparency in AI
   - Dataset
 license: CC-BY-4.0
-reference:
+preferred-citation:
   - type: data, database
     title: A Study of Automatic Metrics for the Evaluation of Natural Language
       Explanations
